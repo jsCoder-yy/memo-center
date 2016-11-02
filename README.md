@@ -1,8 +1,9 @@
 ## 一些命令和语法
-> 
+>
 * [git初级使用](https://github.com/jsCoder-yy/memo-center/issues/1)
 * [markdown基本语法](http://www.appinn.com/markdown/)
 * [正则表达式入门教程](http://deerchao.net/tutorials/regex/regex.htm#mission)
+* [package.json文件解析](http://javascript.ruanyifeng.com/nodejs/packagejson.html)
 
 ## 一些css知识点备忘
 >
@@ -19,4 +20,3 @@ http://www.heapoverflow.me/question-setstate-can-only-update-a-mounted-or-mounti
 ## 备忘自留地
 >
 * [系统重装(window) ](https://github.com/jsCoder-yy/memo-center/issues/2)
-
