@@ -22,3 +22,4 @@ http://www.heapoverflow.me/question-setstate-can-only-update-a-mounted-or-mounti
 >
 * [系统重装(window) ](https://github.com/jsCoder-yy/memo-center/issues/2)
 * [本机package.json(global) ](https://github.com/jsCoder-yy/memo-center/issues/3)
+* [环境变量的设定](https://github.com/jsCoder-yy/memo-center/issues/6)
