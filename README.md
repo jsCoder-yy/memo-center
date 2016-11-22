@@ -5,6 +5,7 @@
 * [markdown基本语法](http://www.appinn.com/markdown/)
 * [正则表达式入门教程](http://deerchao.net/tutorials/regex/regex.htm#mission)
 * [package.json文件解析](http://javascript.ruanyifeng.com/nodejs/packagejson.html)
+* [移动端调试参考](https://github.com/jieyou/remote_inspect_web_on_real_device/blob/master/README.textile)
 
 ## 一些css知识点备忘
 >
