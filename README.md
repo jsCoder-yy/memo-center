@@ -17,6 +17,7 @@
 * [为什么React的子组件需要加唯一key](http://www.anleb.com/13)
 * [使用this.setState方法，会触发异步修改状态](https://segmentfault.com/q/1010000002958584)
 https://facebook.github.io/react/docs/component-api.html
+* [禁用IOS手机页面数字自动识别为手机号](https://github.com/jsCoder-yy/memo-center/issues/14)
 * [css怎么让页面上的内容不能被选中](https://github.com/jsCoder-yy/memo-center/issues/15)
 ## 写react遇到的那些坑
 >
